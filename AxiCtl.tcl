@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2016 by Piotr Miedzik <P.Miedzik@gsi.de>
+# Copyright (ↄ) 2016 by Piotr Miedzik <P.Miedzik@gsi.de>
 #
 
 package require cmdline
